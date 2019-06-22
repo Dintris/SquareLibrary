@@ -7,7 +7,7 @@ namespace SquareToolsTests
 	[TestClass]
 	public class Circle_Square
 	{
-		//Задачем точность
+		//Задаем точность
 		static readonly double Epsilon = 0.00001;
 
 		[TestMethod]
@@ -92,7 +92,7 @@ namespace SquareToolsTests
 	[TestClass]
 	public class Triangle_Square
 	{
-		//Задачем точность
+		//Задаем точность
 		static readonly double Epsilon = 0.00001;
 
 		[TestMethod]
